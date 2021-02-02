@@ -774,7 +774,7 @@ form input[type="submit"]:focus {
 }
 
 .feature.boxed img {
-    width: 150px;
+    width: 130px;
     float: right;
 }
 
@@ -2987,9 +2987,9 @@ all and (min-device-pixel-ratio: 1.5) {
 
 #branding .site-title {
     margin: 0;
-    font-size: 14px;
-    font-size: 0.875em;
-    font-weight: 600;
+    font-size: 18px;
+    font-size: 1.125em;
+    font-weight: 800;
     line-height: 1;
 }
 
@@ -3004,8 +3004,8 @@ all and (min-device-pixel-ratio: 1.5) {
 /* line 32, sass/layout/_header.scss */
 
 #branding .site-description {
-    font-size: 12px;
-    font-size: 0.75em;
+    font-size: 14px;
+    font-size: 0.875em;
     color: #888;
     font-family: Arial, sans-serif;
 }
@@ -3449,6 +3449,10 @@ all and (min-device-pixel-ratio: 1.5) {
     font-size: 14px;
     font-size: 0.875em;
     color: #494949;
+}
+
+p {
+    color: #555555;
 }
 
 
